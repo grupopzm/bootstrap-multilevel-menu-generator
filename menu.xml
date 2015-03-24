@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+	<!-- top level Item -->
+	<menu>
+		<item>
+			<!-- menu item values -->
+			<name>Arquivo</name>
+			<link>index.php</link>
+		</item>
+		
+		<item>
+			<name>Cadastro</name>
+			<link>index.php</link>
+				<subitem1>
+					<name>Auxiliares</name>
+					<link>index.php</link>
+				</subitem1>
+				<subitem1>
+					<name>Agrupamentos</name>
+					<link>index.php</link>
+						<subitem2>
+							<name>Evem more..</name>
+							<link>index.php</link>
+						</subitem2>
+				</subitem1>
+		</item>
+		
+		<item>
+			<name>Consulta</name>
+			<link>index.php</link>
+				<subitem1>
+					<name>Auxiliares</name>
+					<link>index.php</link>
+				</subitem1>
+				<subitem1>
+					<name>Agrupamentos</name>
+					<link>index.php</link>
+				</subitem1>
+		</item>
+		
+		<item>
+			<name>Processamento</name>
+			<link>index.php</link>
+				<subitem1>
+					<name>Gerar Checklist</name>
+					<link>index.php</link>
+				</subitem1>
+				<subitem1>
+					<name>Excluir Checklist</name>
+					<link>index.php</link>
+				</subitem1>
+		</item>
+		
+		<item>
+			<name>Relatorios</name>
+			<link>index.php</link>
+				<subitem1>
+					<name>Grafico de Avancamento</name>
+					<link>index.php</link>
+				</subitem1>
+				<subitem1>
+					<name>Aging de Pendencias</name>
+					<link>index.php</link>
+				</subitem1>
+		</item>
+		
+		<item>
+			<name>Sobre</name>
+			<link>about.php</link>
+				<!-- child items to the about main menu item -->
+				<subitem1>
+					<!-- sub item values -->
+					<name>Manual Conciliacao Contabil</name>
+					<link>index.php</link>
+				</subitem1>
+		</item>
+		
+		
+	</menu>
