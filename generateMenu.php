@@ -5,7 +5,6 @@
 	$menu = simplexml_load_file($menuStructor);
 	echo '<nav class="navbar navbar-inverse navbar-custom">
       <div class="container-fluid">
-          <h1 class="title-custom">PZM Enterprise Conciliação Contábil</h1>
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -14,7 +13,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-           <a class="navbar-brand" href="#">PZMEntreprise</a>
+            <a class="navbar-brand" href="#">Your Brand</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
